@@ -1,4 +1,8 @@
-### Hi there 👋
+### 👨🏻‍💻 👨🏻‍💻 Hi, welcome to my profile. 👋
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=profadevairvitorio&show=reviews,discussions_started,discussions_answered&show_icons=true&theme=radical)](https://github.com/profadevairvitorio)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=profadevairvitorio&layout=donut)](https://github.com/profadevairvitorio)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=profadevairvitorio&hide_progress=true)
 
 <!--
 **profadevairvitorio/profadevairvitorio** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
