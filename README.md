@@ -3,6 +3,7 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=profadevairvitorio&layout=donut)](https://github.com/profadevairvitorio)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=profadevairvitorio&hide_progress=true)
+[![Prof Adevair Vitório profile views](https://u8views.com/api/v1/github/profiles/121971339/views/day-week-month-total-count.svg)](https://u8views.com/github/profadevairvitorio)
 
 <!--
 **profadevairvitorio/profadevairvitorio** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
