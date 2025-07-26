@@ -21,7 +21,7 @@ Here are some of the main technologies and tools I work with:
 
 * Ruby on Rails: My preferred framework for rapid and efficient web development.
 * React.js / Next.js: For building modern and reactive user interfaces.
-* Node.js / Express.js: For developing APIs and backend services in JavaScript.
+* Node.js / NestJS: For developing APIs and backend services in JavaScript.
 * Django / Flask: Experience with Python frameworks for web development.
 
 ### Databases:
