@@ -4,15 +4,18 @@ I'm Adevair Vitório (@profadevairvitorio), a Software Engineer with over 9 year
 
 Throughout my career, I have contributed to various phases of the software development life cycle, from conception and architecture to implementation, testing, and deployment. I am proficient in agile methodologies and constantly seek to improve my skills and explore new technologies.
 
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=profadevairvitorio&show=reviews,discussions_started,discussions_answered&show_icons=true&theme=radical)](https://github.com/profadevairvitorio)
+
 ## My Technology Stack
 Here are some of the main technologies and tools I work with:
 
+
 ### Programming Languages:
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=profadevairvitorio&layout=donut)](https://github.com/profadevairvitorio)
 
 * Ruby: My primary language, with extensive experience.
 * Python: Used for automation, scripting, data analysis, and web development.
 * JavaScript/TypeScript: Essential for both frontend and backend development (Node.js).
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=profadevairvitorio&show=reviews,discussions_started,discussions_answered&show_icons=true&theme=radical)](https://github.com/profadevairvitorio)
 
 ### Frameworks & Libraries:
 
@@ -39,9 +42,6 @@ Here are some of the main technologies and tools I work with:
 * DBeaver: Universal database tool for developers and database administrators.
 * JetBrains IDEs (PyCharm, WebStorm, RubyMine): My preferred integrated development environments.
 
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=profadevairvitorio&layout=donut)](https://github.com/profadevairvitorio)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=profadevairvitorio&hide_progress=true)
 [![Prof Adevair Vitório profile views](https://u8views.com/api/v1/github/profiles/121971339/views/day-week-month-total-count.svg)](https://u8views.com/github/profadevairvitorio)
 
 <!--
